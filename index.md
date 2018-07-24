@@ -12,11 +12,11 @@ There's also other more advanced things you can do, such as connecting external 
 
 ## How can I get started?
 
-Your first port of call should be Grok Learning which has a micro:bit Crash Course - which will take you through all the basics of programming for the platform. All CGS students have access to Grok Learning and you can login using your normal CGS Connect credentials by going here: [https://groklearning.com/sso/saml2/login?idp=au-act-cgs](https://groklearning.com/sso/saml2/login?idp=au-act-cgs)
+Your first port of call should be Grok Learning which has a micro:bit Crash Course - which will take you through all the basics of programming for the platform. All CGS students have access to Grok Learning and you can login using your normal CGS Connect credentials by going here: [https://groklearning.com/sso/saml2/login?idp=au-act-cgs](https://groklearning.com/sso/saml2/login?idp=au-act-cgs){:target="_blank"}
 
 It's important that you work through the Crash Course as this will introduce you to the key features of the micro:bit. However, feel free to divert off the tutorials and make your own projects at any time!
 
-Once you're in Grok Learning, head to the [BBC micro:bit Crash Course](https://groklearning.com/course/microbit-crash-course/). There is a micro:bit simulator built into Grok Learning, but since you have the hardware you can also download your code onto the micro:bit and run it on the actual hardware. The Crash Course will take you through how to download the code onto your micro:bit.
+Once you're in Grok Learning, head to the [BBC micro:bit Crash Course](https://groklearning.com/course/microbit-crash-course/){:target="_blank"}. There is a micro:bit simulator built into Grok Learning, but since you have the hardware you can also download your code onto the micro:bit and run it on the actual hardware. The Crash Course will take you through how to download the code onto your micro:bit.
 
 ## What next?
 
