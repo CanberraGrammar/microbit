@@ -12,7 +12,7 @@ There's also other more advanced things you can do, such as connecting external 
 
 ## How can I get started?
 
-Your first port of call should be Grok Learning which has a micro:bit Crash Course - which will take you through all the basics of programming for the platform. All CGS students have access to Grok Learning and you can login using your normal CGS Connect credentials by going here: https://groklearning.com/sso/saml2/login?idp=au-act-cgs
+Your first port of call should be Grok Learning which has a micro:bit Crash Course - which will take you through all the basics of programming for the platform. All CGS students have access to Grok Learning and you can login using your normal CGS Connect credentials by going here: [https://groklearning.com/sso/saml2/login?idp=au-act-cgs](https://groklearning.com/sso/saml2/login?idp=au-act-cgs)
 
 It's important that you work through the Crash Course as this will introduce you to the key features of the micro:bit. However, feel free to divert off the tutorials and make your own projects at any time!
 
